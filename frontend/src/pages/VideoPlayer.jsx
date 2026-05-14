@@ -21,7 +21,9 @@ import {
 } from 'react-icons/fa';
 
 
+
 // ========================= VIDEO PLAYER COMPONENT =========================
+// Video player UI optimization
 export default function VideoPlayer() {
 
   // Get video ID from URL
