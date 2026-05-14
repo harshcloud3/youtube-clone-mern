@@ -1,4 +1,5 @@
 // Import mongoose package
+// User schema configuration improvements
 import mongoose from 'mongoose';
 
 
