@@ -1,4 +1,5 @@
 // Import mongoose package
+// Database seed optimization updates
 import mongoose from 'mongoose';
 
 // Import dotenv package for environment variables
