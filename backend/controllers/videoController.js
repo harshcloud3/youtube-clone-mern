@@ -1,4 +1,5 @@
 // Import Video model
+// Enhanced API response handling
 import Video from '../models/Video.js';
 
 // Import Channel model
