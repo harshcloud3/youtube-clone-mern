@@ -1,4 +1,5 @@
 // Import Comment model
+// Added comment management enhancements
 import Comment from '../models/Comment.js';
 
 // Import Video model
