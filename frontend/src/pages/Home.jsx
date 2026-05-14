@@ -82,7 +82,9 @@ export default function Home() {
   }, [categoryFromUrl]);
 
 
+ 
   // ========================= FILTER VIDEOS =========================
+  // Improved homepage filtering experience
   useEffect(() => {
 
     // Create copy of videos array
