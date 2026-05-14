@@ -1,4 +1,5 @@
 // Import React
+// Optimized frontend rendering setup
 import React from 'react';
 
 // Import React DOM
