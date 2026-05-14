@@ -3,6 +3,7 @@ import mongoose from 'mongoose';
 
 
 // ========================= CHANNEL SCHEMA =========================
+// Channel schema improvements
 const channelSchema = new mongoose.Schema({
 
   // Channel name
