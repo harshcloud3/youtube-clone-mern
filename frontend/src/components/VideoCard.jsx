@@ -6,6 +6,7 @@ import { FaUserCircle } from 'react-icons/fa';
 
 
 // ========================= VIDEO CARD COMPONENT =========================
+// Added reusable component improvements
 export default function VideoCard({ video }) {
 
   return (
