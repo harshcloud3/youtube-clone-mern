@@ -103,7 +103,7 @@ export const AuthProvider = ({ children }) => {
       }
     );
   };
-
+// Enhanced authentication flow
 
   // ========================= LOGOUT FUNCTION =========================
   const logout = () => {
