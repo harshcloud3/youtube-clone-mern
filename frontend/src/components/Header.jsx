@@ -1,4 +1,5 @@
 // Import useState hook
+// Added responsive sidebar improvements
 import { useState } from 'react';
 
 // Import React Router utilities
