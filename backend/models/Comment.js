@@ -3,6 +3,7 @@ import mongoose from 'mongoose';
 
 
 // ========================= COMMENT SCHEMA =========================
+// Comment schema enhancements
 const commentSchema = new mongoose.Schema({
 
   // Store video ID
