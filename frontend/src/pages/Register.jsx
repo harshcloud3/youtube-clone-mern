@@ -1,4 +1,5 @@
 // Import React hooks
+// Enhanced registration form validation
 import { useState } from 'react';
 
 // Import navigation and Link utilities
