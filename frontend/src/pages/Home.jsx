@@ -1,4 +1,5 @@
 // Import React hooks
+// Improved search functionality experience
 import {
   useEffect,
   useState
