@@ -1,3 +1,4 @@
+// Authentication route cleanup
 // Import Express framework
 import express from 'express';
 
