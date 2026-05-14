@@ -1,4 +1,5 @@
 // Import React hooks
+// Improved login page accessibility
 import { useState } from 'react';
 
 // Import navigation and Link utilities
