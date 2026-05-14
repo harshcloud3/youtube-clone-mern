@@ -1,4 +1,5 @@
 // Import JWT package for token verification
+// Middleware authentication enhancements
 import jwt from 'jsonwebtoken';
 
 // Import User model
