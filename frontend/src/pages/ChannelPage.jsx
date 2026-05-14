@@ -171,7 +171,7 @@ export default function ChannelPage() {
   if (!user)
     return null;
 
-
+// Updated channel management interface
   // ========================= COMPONENT UI =========================
   return (
     <div className="pt-20 p-4 max-w-5xl mx-auto">
