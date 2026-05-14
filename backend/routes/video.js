@@ -1,4 +1,5 @@
 // Import Express framework
+// Backend route structure cleanup
 import express from 'express';
 
 // Import video controller functions
