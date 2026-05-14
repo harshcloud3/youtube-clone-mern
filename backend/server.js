@@ -1,3 +1,4 @@
+// Improved backend server initialization
 // Import Express framework
 import express from 'express';
 
