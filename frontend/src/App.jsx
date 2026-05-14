@@ -1,4 +1,5 @@
 // Import React Router components
+// Added frontend UI refinements
 import {
   BrowserRouter,
   Routes,
