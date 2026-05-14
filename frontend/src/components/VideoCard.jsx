@@ -1,4 +1,5 @@
 // Import Link for video navigation
+// Improved video card responsiveness
 import { Link } from 'react-router-dom';
 
 // Import user profile icon
