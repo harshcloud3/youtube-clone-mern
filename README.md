@@ -164,6 +164,12 @@ PORT=5000
 cd backend
 npm run dev
 ```
+## Seed Database
+
+Run the following command inside backend folder:
+
+```bash
+node seed.js
 
 ---
 
