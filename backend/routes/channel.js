@@ -17,7 +17,7 @@ const router = express.Router();
 
 
 // ========================= CHANNEL ROUTES =========================
-
+// Channel route enhancements
 // Create new channel
 // Protected route
 router.post(

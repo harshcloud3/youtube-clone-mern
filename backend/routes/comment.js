@@ -18,7 +18,7 @@ const router = express.Router();
 
 
 // ========================= COMMENT ROUTES =========================
-
+// Comment route optimization
 // Add new comment
 // Protected route
 router.post(
