@@ -3,6 +3,7 @@ import mongoose from 'mongoose';
 
 
 // ========================= VIDEO SCHEMA =========================
+// Video schema optimization updates
 const videoSchema = new mongoose.Schema({
 
   // Unique custom video ID
